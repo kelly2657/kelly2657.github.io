@@ -106,14 +106,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Be **clever**."
   location         : "Korea"
-  email            :
+  email            : "orionrora0815@hknu.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "orionrora0815@hknu.ac.kr"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       # url: "https://your-website.com"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: 
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/kelly2657"
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       # url: "https://twitter.com/"
