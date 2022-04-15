@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /category/
 title: "About"
 toc: true
 toc_sticky: true
