@@ -1,4 +1,16 @@
-# 캘리포니아 주택가격 예측_2
+---
+title: '[Blog]캘리포니아 주택가격 예측_2'
+layout: single
+categories:
+  - Python
+tag:
+  - Blog
+  - machinelearning
+  - assignment
+toc: true
+toc_label: "on this page"
+toc_sticky: true
+---
 
 원래의 전처리 과정에서 두가지 변환을 처리할 것이다.
 
