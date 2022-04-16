@@ -31,6 +31,10 @@ __변환 2__
 ```python
 import sys
 assert sys.version_info >= (3, 7)
+
+# 사이킷 런이 버전이 맞지 않아 실행되지 않았던 코드는 주석처리 해두었다.
+# import sklearn
+# sklearn.__version__ >="1.0.1"
 ```
 
 
