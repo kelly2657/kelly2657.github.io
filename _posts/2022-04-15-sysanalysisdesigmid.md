@@ -10,6 +10,7 @@ tag:
 toc: true
 toc_label: "on this page"
 toc_sticky: true
+published : false
 ---
 ### Intro
 >  시스템 분석 : 정보시스템이 무엇을(what) 해야하는지 자세히 이해, 발견, 기술
