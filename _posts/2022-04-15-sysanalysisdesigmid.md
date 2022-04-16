@@ -2,7 +2,7 @@
 title: '[Blog]시스템 분석 및 설계 정리_중간'
 layout: single
 categories:
-  - System analysis and design
+  - 시험 요약 정리
 tag:
   - Blog
   - Systemanalysisanddesign
@@ -10,7 +10,6 @@ tag:
 toc: true
 toc_label: "on this page"
 toc_sticky: true
-published : false
 ---
 ### Intro
 >  시스템 분석 : 정보시스템이 무엇을(what) 해야하는지 자세히 이해, 발견, 기술
@@ -233,6 +232,7 @@ published : false
 - 스토리텔링 기반이라 요구 추출에 유용
 - 시나리오 묶음(클래스와 객체 관계)
 - 외부적인 것에 집중함(분석 단계)
+
 > ##### Actor
 > - 목적을 두고 개발할 시스템과 상호작용하는 시스템/사람
 > - primary actor : U.C를 시작하는 actor
