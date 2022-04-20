@@ -1,3 +1,15 @@
+---
+title: '[Blog]핸즈온머신러닝 2판 1장, 4장 연습문제'
+layout: single
+categories:
+  - Study
+tag:
+  - Blog
+  - machinelearning
+toc: true
+toc_label: "on this page"
+toc_sticky: true
+---
 # Chap1. 
 
 1. __머신러닝이란?__
